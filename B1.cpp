@@ -19,3 +19,4 @@ gcc -fpIC -I"$JAVA_HOME/include" -I"$JAVA_HOME/include/linux" -shared -o libB1.s
 java -Djava.library.path=. B1
 */
 
+OpenJDK-amd64'
